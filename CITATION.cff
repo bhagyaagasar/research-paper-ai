@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "ResearchPaperAI"
+type: software
+
+authors:
+  - family-names: "Agasar"
+    given-names: "Bhagyashri"
+
+repository-code: "https://github.com/bhagyaagasar/research-paper-ai"
+
+abstract: >
+  ResearchPaperAI is an AI-powered research paper analysis
+  platform supporting semantic search, paper comparison,
+  summarization, and research insights.
+
+keywords:
+  - artificial intelligence
+  - research paper analysis
+  - semantic search
+  - natural language processing
+  - academic research
+  - large language models
+
+license: MIT
