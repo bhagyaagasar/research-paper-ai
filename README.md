@@ -42,7 +42,7 @@ Every answer is grounded exclusively in the uploaded documents. The system never
 
 ### Research Dashboard
 
-![ResearchPaperAI Dashboard](screenshots/dashboard.png)
+![ResearchPaperAI Dashboard](ResearchPaperAI_Dashboard.png)
 ## Features
 
 - 📄 **PDF Upload & Processing** — Single or batch upload with drag-and-drop; validates format, size, and integrity
