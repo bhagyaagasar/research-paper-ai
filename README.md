@@ -38,7 +38,11 @@
 Every answer is grounded exclusively in the uploaded documents. The system never fabricates citations, authors, datasets, or numerical results.
 
 ---
+## 📸 Application Preview
 
+### Research Dashboard
+
+![ResearchPaperAI Dashboard](screenshots/dashboard.png)
 ## Features
 
 - 📄 **PDF Upload & Processing** — Single or batch upload with drag-and-drop; validates format, size, and integrity
