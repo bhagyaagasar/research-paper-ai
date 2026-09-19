@@ -1,0 +1,74 @@
+# ResearchPaperAI
+
+> AI-powered research paper analysis platform for semantic search, paper comparison, summarization, and research insights.
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+## Overview
+
+ResearchPaperAI is a web-based research assistant designed to help researchers organize, analyze, search, compare, and understand scientific papers.
+
+## Features
+
+- 📚 Research paper library
+- 📄 PDF paper upload
+- 🤖 AI-powered paper analysis
+- 🔎 Semantic search
+- 💬 Ask questions about research papers
+- 📊 Paper comparison
+- 📝 Paper summarization
+- 💡 Research insights
+- 📓 Research notes
+- 🎨 Modern research dashboard
+
+## Application Modules
+
+### Dashboard
+
+Provides an overview of uploaded papers, indexed content, processing status, and research activity.
+
+### Paper Library
+
+Manage and organize research papers from a centralized interface.
+
+### Ask ResearchPaperAI
+
+Interact with uploaded research papers using natural-language questions.
+
+### Semantic Search
+
+Find relevant passages across the research-paper collection.
+
+### Paper Comparison
+
+Compare research papers side-by-side.
+
+### Research Insights
+
+Identify useful patterns and insights from the indexed research corpus.
+
+## Technology Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- AI/LLM integration
+- Semantic search
+- PDF processing
+
+## Project Structure
+
+```text
+research-paper-ai/
+├── app/
+├── components/
+├── lib/
+├── public/
+├── hooks/
+├── package.json
+├── tsconfig.json
+└── README.md
